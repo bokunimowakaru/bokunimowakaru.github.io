@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
+title: Welcome to git.bokunimo.com
 plugins:
  - jekyll-sitemap
