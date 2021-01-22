@@ -1,4 +1,4 @@
-# Repositories on bokunimo's GitHub Pages:
+# Repositories:
 
 [esp: more than 100 examples for ESPs](https://git.bokunimo.com/esp/)  
 ボクにもわかるIoTモジュールESP-WROOM-02 ESP-WROOM-32  
