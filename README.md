@@ -1,2 +1,2 @@
-# bokunimo.github.io
+# git.bokunimo.com
 bokunimo GitHub Pages
