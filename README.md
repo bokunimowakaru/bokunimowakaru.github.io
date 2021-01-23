@@ -17,7 +17,7 @@ M5Camera 撮影した写真を、FTP サーバや、LINEに転送します。
 [.: bokunimo's GitHub Pages site (https://git.bokunimo.com/)](https://git.bokunimo.com/)  
 本ページへのリンクです。  
 
-[git: bokunimo's GitHub site (https://https://bokunimo.net/git/) ](https://https://bokunimo.net/git/)  
+[git: bokunimo's GitHub site (https://bokunimo.net/git/) ](https://bokunimo.net/git/)  
 GitHubへのリンクです。  
 
 by [bokunimo.net](https://bokunimo.net/) 
