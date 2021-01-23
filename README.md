@@ -6,10 +6,10 @@
 [tftp: TFTP client for esp32](https://git.bokunimo.com/tftp/)  
 TFTPサーバ上からファイルをダウンロードします。  
 
-[m5camera: IoT M5Camera with FTP Client](http://git.bokunimo.com/m5camera/)  
+[m5camera: IoT M5Camera with FTP Client](https://git.bokunimo.com/m5camera/)  
 M5Camera 撮影した写真を、FTP サーバや、LINEに転送します。  
 
-[ble: Bluetooth LE Central for Raspberry Pi](http://git.bokunimo.com/ble)  
+[ble: Bluetooth LE Central for Raspberry Pi](https://git.bokunimo.com/ble)  
 温度センサからセンサ値を取得する Raspberry Pi用のPythonスクリプトです。  
 
 # Links:
