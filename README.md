@@ -12,6 +12,9 @@ M5Camera 撮影した写真を、FTP サーバや、LINEに転送します。
 [ble: Bluetooth Beacon (advertising) Receiver for IoT](https://git.bokunimo.com/ble)  
 温度センサからセンサ値を取得する Raspberry Pi用のPythonスクリプトです。  
 
+[aquestalkpi2pico: Raspberry Pi to AquesTalk Pico](http://git.bokunimo.com/aquestalkpi2pico/)
+AquesTalkPiの言語処理エンジンを使ってAquesTalk Pico LSIを駆動
+
 [IchigoJam: IchigoJam GitHub Pages site](https://git.bokunimo.com/IchigoJam)  
 BASIC言語で書かれたサンプルおよびプログラミングに関する情報。  
 
