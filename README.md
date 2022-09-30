@@ -22,7 +22,7 @@ ADC 搭載 M5Stack / M5StickC で IoT センサ開発入門
 [sens: IoT Sensor Core ESP32](http://git.bokunimo.com/sens/)  
 ESP32-WROOM-32モジュール用 Wi-Fi対応IoTセンサ機器を簡単に製作  
 
-[hr2021: Example code for AOSONG HR202L on ESP32 Arduino](https://git.bokunimo.com/hr202l/)
+[hr2021: Example code for AOSONG HR202L on ESP32 Arduino](https://git.bokunimo.com/hr202l/)  
 温湿度センサ AOSONG HR202L をESP32マイコンのGPIOに直結するだけ  
 
 [tftp: TFTP client for esp32](https://git.bokunimo.com/tftp/)  
