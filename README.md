@@ -3,13 +3,16 @@
 ### M5Stack
 
 [m5: IoT Code Examples for ESP32, M5Stacks](https://git.bokunimo.com/m5/)  
-M5Stackを使ったIoTデバイス用サンプル・プログラム集です。  
+M5Stackを使ったIoTデバイス用サンプル・プログラム集  
 
 [m5sakura: for Sakura's Mono Platform](https://git.bokunimo.com/m5sakura/)  
-さくらのモノプラットフォームを利用するためのM5Stack用のサンプル・プログラム集です。  
+さくらのモノプラットフォームを利用するためのM5Stack用のサンプル・プログラム集  
 
 [m5camera: IoT M5Camera with FTP Client](https://git.bokunimo.com/m5camera/)  
-M5Camera 撮影した写真を、FTP サーバや、LINEに転送します。  
+M5Camera 撮影した写真を、FTP サーバや、LINEに転送  
+
+[m5adc: IoT ready Analog Sensor device M5Stack](https://git.bokunimo.com/m5adc/)  
+ADC 搭載 M5Stack / M5StickC で IoT センサ開発入門  
 
 ### ESP
 
@@ -19,8 +22,11 @@ M5Camera 撮影した写真を、FTP サーバや、LINEに転送します。
 [sens: IoT Sensor Core ESP32](http://git.bokunimo.com/sens/)  
 ESP32-WROOM-32モジュール用 Wi-Fi対応IoTセンサ機器を簡単に製作  
 
+[hr2021: Example code for AOSONG HR202L on ESP32 Arduino](https://git.bokunimo.com/hr202l/)
+温湿度センサ AOSONG HR202L をESP32マイコンのGPIOに直結するだけ  
+
 [tftp: TFTP client for esp32](https://git.bokunimo.com/tftp/)  
-TFTPサーバ上からファイルをダウンロードします。  
+IP上で簡易データ転送&ファイル・ダウンロードするTFTPサーバ  
 
 ### Raspberry Pi
 
@@ -33,15 +39,15 @@ AquesTalkPiの言語処理エンジンを使ってAquesTalk Pico LSIを駆動
 ### BLE
 
 [ble: Bluetooth Beacon (advertising) Receiver for IoT](https://git.bokunimo.com/ble)  
-温度センサからセンサ値を取得する Raspberry Pi用のPythonスクリプトです。  
+温度センサからセンサ値を取得する Raspberry Pi用のPythonスクリプト  
 
 ## IchigoJam:
 
 [IchigoJam: IchigoJam GitHub Pages site](https://git.bokunimo.com/IchigoJam)  
-BASIC言語で書かれたサンプルおよびプログラミングに関する情報。  
+BASIC言語で書かれたサンプルおよびプログラミング情報  
 
 [IchigoJam/ichigojamR: IchigoJam Risc-V 情報](https://git.bokunimo.com/IchigoJam/ichigojamR)  
-各種RISC-Vマイコン開発ボード毎の書き込みに関する情報。  
+各種RISC-Vマイコン開発ボード毎の書き込みに関する情報  
 
 # Links:
 
