@@ -30,7 +30,7 @@ IP上で簡易データ転送&ファイル・ダウンロードするTFTPサー�
 
 ### Raspberry Pi
 
-[iot: Python IoT Programming](https://github.com/bokunimowakaru/iot/)  
+[iot: Python IoT Programming](https://git.bokunimo.com/iot/)  
 100 本以上の Python サンプル・プログラムで IoT 向けプログラムを学ぶ  
 
 [xbeeCoord: XBee ZB Coordinator API for Raspberry Pi](https://git.bokunimo.com/xbeeCoord/)  
