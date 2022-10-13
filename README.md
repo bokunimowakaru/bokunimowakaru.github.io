@@ -30,11 +30,14 @@ IP上で簡易データ転送&ファイル・ダウンロードするTFTPサー�
 
 ### Raspberry Pi
 
+[iot: Python IoT Programming](https://github.com/bokunimowakaru/iot/)  
+100 本以上の Python サンプル・プログラムで IoT 向けプログラムを学ぶ  
+
 [xbeeCoord: XBee ZB Coordinator API for Raspberry Pi](https://git.bokunimo.com/xbeeCoord/)  
-XBee ZigBee、XBee Wi-Fi によるセンサネットワーク構築
+XBee ZigBee、XBee Wi-Fi によるセンサネットワーク構築  
 
 [aquestalkpi2pico: Raspberry Pi to AquesTalk Pico](https://git.bokunimo.com/aquestalkpi2pico/)  
-AquesTalkPiの言語処理エンジンを使ってAquesTalk Pico LSIを駆動
+AquesTalkPiの言語処理エンジンを使ってAquesTalk Pico LSIを駆動  
 
 ### BLE
 
