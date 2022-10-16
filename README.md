@@ -14,6 +14,9 @@ M5Camera 撮影した写真を、FTP サーバや、LINEに転送
 [m5adc: IoT ready Analog Sensor device M5Stack](https://git.bokunimo.com/m5adc/)  
 ADC 搭載 M5Stack / M5StickC で IoT センサ開発入門  
 
+[m5Janken: Janken Programing, IoT ready M5Stack](https://git.bokunimo.com/m5Janken/)  
+M5Stack用のジャンケン（ジャイケン）・プログラム集  
+
 ### ESP
 
 [esp: more than 100 examples for ESPs](https://git.bokunimo.com/esp/)  
