@@ -37,10 +37,13 @@ IP上で簡易データ転送&ファイル・ダウンロードするTFTPサー�
 100 本以上の Python サンプル・プログラムで IoT 向けプログラムを学ぶ  
 
 [udp: Sensor Data Transmission Format](https://git.bokunimo.com/udp/)  
-センサ値のCSV送信方式UDP×CSVを使ったセンサ・ネットワーク・システム  
+センサ値のCSV送信方式CSV×UDPを使ったセンサ・ネットワーク・システム  
 
 [pico: MicroPython IoT Programming](https://git.bokunimo.com/pico/)  
 MicroPython を使った Raspberry Pi Pico W の学習用サンプル・プログラム集  
+
+[ping: ICMP Ping Code Examples(https://git.bokunimo.com/ping/)  
+Python と MicroPython でICMP Pingの送信や受信を行うサンプル・プログラム
 
 [raspi_lcd: I2C LCD Device Driver](https://git.bokunimo.com/raspi_lcd/)  
 I2C液晶を Raspberry Pi に直結(I2Cリピータ不要、プルアップ抵抗不要)  
