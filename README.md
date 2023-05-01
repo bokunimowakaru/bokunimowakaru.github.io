@@ -48,6 +48,9 @@ Python と MicroPython でICMP Pingの送信や受信を行うサンプル・プ
 [raspi_lcd: I2C LCD Device Driver](https://git.bokunimo.com/raspi_lcd/)  
 I2C液晶を Raspberry Pi に直結(I2Cリピータ不要、プルアップ抵抗不要)  
 
+[oled: I2C OLED Device Driver](https://git.bokunimo.com/oled/)  
+I2C有機ELディスプレイ OLED 液晶を Raspberry Pi に接続して日本語表示  
+
 [xbeeCoord: XBee ZB Coordinator API for Raspberry Pi](https://git.bokunimo.com/xbeeCoord/)  
 XBee ZigBee、XBee Wi-Fi によるセンサネットワーク構築  
 
