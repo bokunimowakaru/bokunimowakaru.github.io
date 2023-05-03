@@ -6,7 +6,7 @@
 M5Stackを使ったIoTデバイス用サンプル・プログラム集  
 
 [m5sakura: for Sakura's Mono Platform](https://git.bokunimo.com/m5sakura/)  
-さくらのモノプラットフォームを利用するためのM5Stack用のサンプル・プログラム集  
+さくらのモノプラットフォームを使ったM5Stack用プログラム集  
 
 [m5camera: IoT M5Camera with FTP Client](https://git.bokunimo.com/m5camera/)  
 M5Camera 撮影した写真を、FTP サーバや、LINEに転送  
