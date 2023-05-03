@@ -70,6 +70,9 @@ Raspberry Pi オーディオ応用例
 [ble: Bluetooth Beacon (advertising) Receiver for IoT](https://git.bokunimo.com/ble)  
 温度センサからセンサ値を取得する Raspberry Pi用のPythonスクリプト  
 
+[lapis_mk715: Exapmles for ROHM/LAPIS MK715x1 EK1, Nordic nRF52811, nRF52832](https://git.bokunimo.com/lapis_mk715)  
+LAPIS MK715x1 を使った Bluetooth LE プログラム入門 ★解説書あり
+
 ## IchigoJam:
 
 [IchigoJam: IchigoJam GitHub Pages site](https://git.bokunimo.com/IchigoJam)  
