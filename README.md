@@ -29,7 +29,7 @@ ESP32-WROOM-32モジュール用 Wi-Fi対応IoTセンサ機器を簡単に製作
 ESP32-C3 搭載 M5Stamp C3/C3U を用いて無線IO制御。★解説書あり  
 
 [si7021: for Si7020, Si7021 and HTU21D](https://github.com/bokunimowakaru/si7021)  
-Si7021用 GPIO直結 I2Cデータ通信サンプルプログラム  
+温湿度センサ Si7021用 GPIO直結 I2Cデータ通信サンプルプログラム  
 
 [hr2021: Example code for AOSONG HR202L on ESP32 Arduino](https://git.bokunimo.com/hr202l/)  
 温湿度センサ AOSONG HR202L をESP32マイコンのGPIOに直結するだけ  
