@@ -37,6 +37,9 @@ ESP32-C3 搭載 M5Stamp C3/C3U を用いて無線IO制御。★解説書あり
 [tftp: TFTP client for esp32](https://git.bokunimo.com/tftp/)  
 IP上で簡易データ転送&ファイル・ダウンロードするTFTPサーバ  
 
+[ups: UPS VRLA Battery Controller for ESP32](https://git.bokunimo.com/ups/)  
+手作りネットワーク機器・サーバ用UPSコントローラ  
+
 ## Raspberry Pi
 
 [iot: Python IoT Programming](https://git.bokunimo.com/iot/)  
