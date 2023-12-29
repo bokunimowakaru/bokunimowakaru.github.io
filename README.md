@@ -25,7 +25,7 @@ M5Stack用のジャンケン（ジャイケン）・プログラム集
 [sens: IoT Sensor Core ESP32](http://git.bokunimo.com/sens/)  
 ESP32-WROOM-32モジュール用 Wi-Fi対応IoTセンサ機器を簡単に製作  
 
-[esp32c3: examples for ESP32-C3](https://git.bokunimo.com/esp32c3)  
+[esp32c3: Code Examples for ESP32-C3](https://git.bokunimo.com/esp32c3)  
 ESP32-C3 搭載 M5Stamp C3/C3U を用いて無線IO制御。★解説書あり  
 
 [si7021: for Si7020, Si7021 and HTU21D](https://github.com/bokunimowakaru/si7021)  
