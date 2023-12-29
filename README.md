@@ -48,6 +48,9 @@ IP上で簡易データ転送&ファイル・ダウンロードするTFTPサー�
 [udp: Sensor Data Transmission Format](https://git.bokunimo.com/udp/)  
 センサ値のCSV送信方式CSV×UDPを使ったセンサ・ネットワーク・システム  
 
+[gpiozero: Examples for GPIO Zero](https://git.bokunimo.com/gpiozero/)  
+GPIO ZeroでI/O制御プログラミング 
+
 [pico: MicroPython IoT Programming](https://git.bokunimo.com/pico/)  
 MicroPython を使った Raspberry Pi Pico W の学習用サンプル・プログラム集  
 
