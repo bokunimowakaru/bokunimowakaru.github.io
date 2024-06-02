@@ -51,6 +51,9 @@ IP上で簡易データ転送&ファイル・ダウンロードするTFTPサー�
 [gpiozero: Examples for GPIO Zero](https://git.bokunimo.com/gpiozero/)  
 GPIO ZeroでI/O制御プログラミング 
 
+[raspifan: Fan Control Examples](https://git.bokunimo.com/raspifan/)  
+ラズパイでファンやサーボモータを制御 
+
 [pico: MicroPython IoT Programming](https://git.bokunimo.com/pico/)  
 MicroPython を使った Raspberry Pi Pico W の学習用サンプル・プログラム集  
 
