@@ -54,8 +54,8 @@ GPIO ZeroでI/O制御プログラミング
 [raspifan: Fan Control Examples](https://git.bokunimo.com/raspifan/)  
 ラズパイでファンやサーボモータを制御 
 
-[wgbt: Pseudo WGBT Feeling Temperature](https://git.bokunimo.com/wgbt/)  
-暑さ指数 WGBT の演算用サンプル・プログラム
+[wgbt: Pseudo WBGT Feeling Temperature](https://git.bokunimo.com/wbgt/)  
+暑さ指数 WBGT の演算用サンプル・プログラム
 
 [pico: MicroPython IoT Programming](https://git.bokunimo.com/pico/)  
 MicroPython を使った Raspberry Pi Pico W の学習用サンプル・プログラム集  
