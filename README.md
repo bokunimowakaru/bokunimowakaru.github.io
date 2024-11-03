@@ -57,6 +57,9 @@ GPIO ZeroでI/O制御プログラミング
 [wgbt: Pseudo WBGT Feeling Temperature](https://git.bokunimo.com/wbgt/)  
 暑さ指数 WBGT の演算用サンプル・プログラム
 
+[wind_speed: Pseudo WBGT Feeling Temperature](https://git.bokunimo.com/wind_speed/)  
+温湿度センサ SHT30 と QST QMP6988 から温度を取得し、風速に換算
+
 [pico: MicroPython IoT Programming](https://git.bokunimo.com/pico/)  
 MicroPython を使った Raspberry Pi Pico W の学習用サンプル・プログラム集  
 
