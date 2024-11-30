@@ -22,6 +22,9 @@ M5Stack用のジャンケン（ジャイケン）・プログラム集
 [esp: more than 100 examples for ESPs](https://git.bokunimo.com/esp/)  
 ボクにもわかるIoTモジュールESP-WROOM-02 ESP-WROOM-32  
 
+[line: for Messaging API](http://git.bokunimo.com/line/)  
+LINE Messaging API を使って ESP32 や M5Stack から簡単メッセージ送信  
+
 [sens: IoT Sensor Core ESP32](http://git.bokunimo.com/sens/)  
 ESP32-WROOM-32モジュール用 Wi-Fi対応IoTセンサ機器を簡単に製作  
 
