@@ -1,48 +1,5 @@
 # Repositories:
 
-## M5Stack
-
-[m5: IoT Code Examples for ESP32, M5Stacks](https://git.bokunimo.com/m5/)  
-M5Stackを使ったIoTデバイス用サンプル・プログラム集  
-
-[m5sakura: for Sakura's Mono Platform](https://git.bokunimo.com/m5sakura/)  
-さくらのモノプラットフォームを使ったM5Stack用プログラム集  
-
-[m5camera: IoT M5Camera with FTP Client](https://git.bokunimo.com/m5camera/)  
-M5Camera 撮影した写真を、FTP サーバや、LINEに転送  
-
-[m5adc: IoT ready Analog Sensor device M5Stack](https://git.bokunimo.com/m5adc/)  
-ADC 搭載 M5Stack / M5StickC で IoT センサ開発入門  
-
-[m5Janken: Janken Programing, IoT ready M5Stack](https://git.bokunimo.com/m5Janken/)  
-M5Stack用のジャンケン（ジャイケン）・プログラム集  
-
-## ESP
-
-[esp: more than 100 examples for ESPs](https://git.bokunimo.com/esp/)  
-ボクにもわかるIoTモジュールESP-WROOM-02 ESP-WROOM-32  
-
-[line: for Messaging API](http://git.bokunimo.com/line/)  
-LINE Messaging API を使って ESP32 や M5Stack から簡単メッセージ送信  
-
-[sens: IoT Sensor Core ESP32](http://git.bokunimo.com/sens/)  
-ESP32-WROOM-32モジュール用 Wi-Fi対応IoTセンサ機器を簡単に製作  
-
-[esp32c3: Code Examples for ESP32-C3](https://git.bokunimo.com/esp32c3)  
-ESP32-C3 搭載 M5Stamp C3/C3U を用いて無線IO制御。★解説書あり  
-
-[si7021: for Si7020, Si7021 and HTU21D](https://github.com/bokunimowakaru/si7021)  
-温湿度センサ Si7021用 GPIO直結 I2Cデータ通信サンプルプログラム  
-
-[hr2021: Example code for AOSONG HR202L on ESP32 Arduino](https://git.bokunimo.com/hr202l/)  
-温湿度センサ AOSONG HR202L をESP32マイコンのGPIOに直結するだけ  
-
-[tftp: TFTP client for esp32](https://git.bokunimo.com/tftp/)  
-IP上で簡易データ転送&ファイル・ダウンロードするTFTPサーバ  
-
-[ups: UPS VRLA Battery Controller for ESP32](https://git.bokunimo.com/ups/)  
-手作りネットワーク機器・サーバ用UPSコントローラ  
-
 ## Raspberry Pi
 
 [iot: Python IoT Programming](https://git.bokunimo.com/iot/)  
@@ -50,6 +7,9 @@ IP上で簡易データ転送&ファイル・ダウンロードするTFTPサー�
 
 [udp: Sensor Data Transmission Format](https://git.bokunimo.com/udp/)  
 センサ値のCSV送信方式CSV×UDPを使ったセンサ・ネットワーク・システム  
+
+[sock: Socket Communication Code for Python](https://git.bokunimo.com/sock/)  
+ソケット通信サンプル・プログラム集 
 
 [gpiozero: Examples for GPIO Zero](https://git.bokunimo.com/gpiozero/)  
 GPIO ZeroでI/O制御プログラミング 
@@ -80,6 +40,49 @@ XBee ZigBee、XBee Wi-Fi によるセンサネットワーク構築
 
 [aquestalkpi2pico: Raspberry Pi to AquesTalk Pico](https://git.bokunimo.com/aquestalkpi2pico/)  
 AquesTalkPiの言語処理エンジンを使ってAquesTalk Pico LSIを駆動  
+
+## ESP
+
+[esp: more than 100 examples for ESPs](https://git.bokunimo.com/esp/)  
+ボクにもわかるIoTモジュールESP-WROOM-02 ESP-WROOM-32  
+
+[line: for Messaging API](http://git.bokunimo.com/line/)  
+LINE Messaging API を使って ESP32 や M5Stack から簡単メッセージ送信  
+
+[sens: IoT Sensor Core ESP32](http://git.bokunimo.com/sens/)  
+ESP32-WROOM-32モジュール用 Wi-Fi対応IoTセンサ機器を簡単に製作  
+
+[esp32c3: Code Examples for ESP32-C3](https://git.bokunimo.com/esp32c3)  
+ESP32-C3 搭載 M5Stamp C3/C3U を用いて無線IO制御。★解説書あり  
+
+[si7021: for Si7020, Si7021 and HTU21D](https://github.com/bokunimowakaru/si7021)  
+温湿度センサ Si7021用 GPIO直結 I2Cデータ通信サンプルプログラム  
+
+[hr2021: Example code for AOSONG HR202L on ESP32 Arduino](https://git.bokunimo.com/hr202l/)  
+温湿度センサ AOSONG HR202L をESP32マイコンのGPIOに直結するだけ  
+
+[tftp: TFTP client for esp32](https://git.bokunimo.com/tftp/)  
+IP上で簡易データ転送&ファイル・ダウンロードするTFTPサーバ  
+
+[ups: UPS VRLA Battery Controller for ESP32](https://git.bokunimo.com/ups/)  
+手作りネットワーク機器・サーバ用UPSコントローラ  
+
+## M5Stack
+
+[m5: IoT Code Examples for ESP32, M5Stacks](https://git.bokunimo.com/m5/)  
+M5Stackを使ったIoTデバイス用サンプル・プログラム集  
+
+[m5sakura: for Sakura's Mono Platform](https://git.bokunimo.com/m5sakura/)  
+さくらのモノプラットフォームを使ったM5Stack用プログラム集  
+
+[m5camera: IoT M5Camera with FTP Client](https://git.bokunimo.com/m5camera/)  
+M5Camera 撮影した写真を、FTP サーバや、LINEに転送  
+
+[m5adc: IoT ready Analog Sensor device M5Stack](https://git.bokunimo.com/m5adc/)  
+ADC 搭載 M5Stack / M5StickC で IoT センサ開発入門  
+
+[m5Janken: Janken Programing, IoT ready M5Stack](https://git.bokunimo.com/m5Janken/)  
+M5Stack用のジャンケン（ジャイケン）・プログラム集  
 
 ## Audio
 
