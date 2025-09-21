@@ -43,7 +43,7 @@ AquesTalkPiの言語処理エンジンを使ってAquesTalk Pico LSIを駆動
 
 ## Milk-V
 
-[milkv: IoT Example Codes for Milk-V](https://git.bokunimo.com/milkv/)
+[milkv: IoT Example Codes for Milk-V](https://git.bokunimo.com/milkv/)  
 Milk-V Duo 用のIoT向けサンプル・プログラム集
 
 ## ESP
